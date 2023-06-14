@@ -1,4 +1,15 @@
+<!-- 자기소개 시작 -->
+<div>
+<br>
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+bo+hyun!!+&nbsp;)
+<br>
+</div>
+ 
+* * *
+<br>
 <div align=center>
+   
    <h3>📚 Tech Stack 📚</h3>
    <p>✨ Platforms & Languages ✨</p>
 </div>
